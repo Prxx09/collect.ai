@@ -1,0 +1,1 @@
+"""CollectAI API package."""
